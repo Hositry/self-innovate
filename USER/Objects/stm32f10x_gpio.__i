@@ -1,0 +1,6 @@
+--c99 --gnu -c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I ..\CORE -I ..\FWLIB\inc -I .\inc -I ..\USER -I ..\SYSTEM\include -I ..\SYSTEM\portable\RVDS\ARM_CM3 -I ..\USB\Config\inc -I ..\USB\Core\inc
+-I.\RTE\_USB_BOOT
+-ID:\Keil_v5\ARM\CMSIS\Include
+-IDevice\Include
+-D__UVISION_VERSION="527" -DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD
+-o .\objects\stm32f10x_gpio.o --omf_browse .\objects\stm32f10x_gpio.crf --depend .\objects\stm32f10x_gpio.d "..\FWLIB\src\stm32f10x_gpio.c"

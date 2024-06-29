@@ -1,0 +1,29 @@
+{
+    "files.associations": {
+        "freertosconfig.h": "c",
+        "freertos.h": "c",
+        "stm32f10x_usart.h": "c",
+        "led.h": "c",
+        "uart.h": "c",
+        "stm32f10x_rcc.h": "c",
+        "task.h": "c",
+        "queue.h": "c",
+        "lcd.h": "c",
+        "stm32f10x_gpio.h": "c",
+        "timer.h": "c",
+        "hw_config.h": "c",
+        "platform_config.h": "c",
+        "usb_pwr.h": "c",
+        "usb_lib.h": "c",
+        "usb_desc.h": "c",
+        "spi.h": "c",
+        "stm32f10x_spi.h": "c",
+        "w25qxx.h": "c",
+        "stm32f10x_rtc.h": "c",
+        "rtc.h": "c",
+        "stm32f10x.h": "c",
+        "key.h": "c",
+        "stm32f10x_exti.h": "c",
+        "flash.h": "c"
+    }
+}
